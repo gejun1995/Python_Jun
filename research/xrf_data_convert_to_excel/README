@@ -1,0 +1,27 @@
+
+
+To convert XRF data into '.xlsx' format which was collected in SSRL.
+Version 3.0
+
+New features:
+1. Some bug fixes.
+
+TO do:
+1. Make GUI.
+
+By Jun Ge
+Updated 9/22/2018
+
+
+
+
+
+
+To convert XRF data into '.xlsx' format which was collected in SSRL.
+Version 2.0
+New features:
+1. Make files read in batches possible.
+2. Some bug fixed.
+
+By Jun Ge
+Updated 8/20/2018

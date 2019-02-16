@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Beta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Beta/beta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Research" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Research/research" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spider/Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spider/spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reference" vcs="Git" />
+  </component>
+</project>
