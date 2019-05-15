@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="186c7d94-58a1-455e-bb1e-03e39a40d27a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../learning/numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/openCV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/scif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/scif2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/scif3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/scif4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/sift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stem_section_align/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transcriptome/total_cluster_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zqy/1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zqy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zqy/combine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Research.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Research.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="186c7d94-58a1-455e-bb1e-03e39a40d27a" name="Default" comment="need to add ransac">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transcriptome/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zqy/combine.pl" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine/combine.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zqy/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine/combine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zqy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/openCV1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/scif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/scif2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/scif3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/scif4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/sift.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,47 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stem_section_align/scif.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stem_section_align/scif2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stem_section_align/stem_section_align.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stem_section_align/fast.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="323">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -112,6 +54,7 @@
     <findStrings>
       <find>op</find>
       <find>ws</find>
+      <find>temp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -155,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,7 +121,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,6 +183,9 @@
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -259,6 +205,9 @@
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -278,6 +227,9 @@
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -316,6 +268,9 @@
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -353,12 +308,21 @@
       <updated>1520558753880</updated>
       <workItem from="1557499309396" duration="143000" />
       <workItem from="1557801317005" duration="4064000" />
-      <workItem from="1557812500988" duration="18927000" />
+      <workItem from="1557812500988" duration="26807000" />
+      <workItem from="1557928770491" duration="977000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1557917367224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557917367224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23134000" />
+    <option name="totallyTimeSpent" value="31991000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -373,7 +337,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.15831557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.15991472" />
       <window_info id="Structure" order="1" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info id="Favorites" order="2" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -387,7 +351,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.24485373" />
+      <window_info anchor="bottom" id="Python Console" order="11" visible="true" weight="0.22751896" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -401,6 +365,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,7 +406,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/research$stem_section_align.coverage" NAME="stem_section_align Coverage Results" MODIFIED="1557917285029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stem_section_align" />
+    <SUITE FILE_PATH="coverage/research$stem_section_align.coverage" NAME="stem_section_align Coverage Results" MODIFIED="1557918152577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stem_section_align" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rice_cd/plot.py" />
@@ -480,80 +448,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/scif4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/scif3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/scf3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/openCV1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/sift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/scif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/scif2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stem_section_align/fast.py">
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif4.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/test.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif3.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scf3.jpg" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/openCV1.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/sift.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif2.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/fast.py" />
+    <entry file="file://$PROJECT_DIR$/stem_section_align/trash/scif2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stem_section_align/stem_section_align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="323">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
