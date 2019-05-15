@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="186c7d94-58a1-455e-bb1e-03e39a40d27a" name="Default" comment="need to add ransac">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/openCV1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/scif.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/scif2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/scif3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/scif4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/sift.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stem_section_align/test.py" beforeDir="false" />
-    </list>
+    <list default="true" id="186c7d94-58a1-455e-bb1e-03e39a40d27a" name="Default" comment="need to add ransac" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stem_section_align/stem_section_align.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="-221">
+              <caret line="32" column="62" lean-forward="true" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -86,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -309,7 +300,7 @@
       <workItem from="1557499309396" duration="143000" />
       <workItem from="1557801317005" duration="4064000" />
       <workItem from="1557812500988" duration="26807000" />
-      <workItem from="1557928770491" duration="977000" />
+      <workItem from="1557928770491" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1557917367224</created>
@@ -322,7 +313,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31991000" />
+    <option name="totallyTimeSpent" value="32333000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -335,9 +326,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.15991472" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.15991472" />
       <window_info id="Structure" order="1" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info id="Favorites" order="2" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -351,7 +341,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
-      <window_info anchor="bottom" id="Python Console" order="11" visible="true" weight="0.22751896" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.22751896" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -469,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stem_section_align/stem_section_align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="-221">
+          <caret line="32" column="62" lean-forward="true" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
