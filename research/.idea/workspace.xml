@@ -2,72 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="186c7d94-58a1-455e-bb1e-03e39a40d27a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/openCV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/scif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/scif2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/scif3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/scif4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/sift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stem_section_align/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transcriptome/total_cluster_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zqy/1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zqy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zqy/combine/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/test.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Research.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Research.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Align/BLOSUM50.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Align/align.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Align/align.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysis/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicl_excel_data_dealing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicl_excel_data_dealing/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicl_excel_data_dealing/sedum_cd&amp;mn.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicl_excel_data_dealing/sedum_cd&amp;mn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_ch/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_ch/bagging.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_ch/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_ch/test0127 Bagging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seperation_excel_lz/HMMRhi2 0.920 edge_attribute.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seperation_excel_lz/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seperation_excel_lz/new HMMRhi2 0.920 edge_attribute-Jun MacBook Pro.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seperation_excel_lz/new HMMRhi2 0.920 edge_attribute.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/species_excel_lz/Network module separation and modularity calculation.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/species_excel_lz/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/species_excel_lz/new Network module separation and modularity calculation.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/species_excel_lz/species name.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/species_excel_lz/物种名称.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transcriptome/test1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_conversion/unit_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_conversion/unit_conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/python2.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/python2.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/UserDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/UserDict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/_abcoll.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/_abcoll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/_weakrefset.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/_weakrefset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/codecs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/codecs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/config" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/copy_reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/copy_reg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/distutils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/distutils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/distutils/distutils.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/distutils/distutils.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/encodings" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/encodings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/fnmatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/fnmatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/genericpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/genericpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/lib-dynload" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/lib-dynload" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/linecache.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/linecache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/locale.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/locale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/ntpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/ntpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/orig-prefix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/orig-prefix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/os.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/os.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/posixpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/posixpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/re.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/re.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/site.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/site.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/sre.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/sre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/sre_compile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/sre_compile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/sre_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/sre_constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/sre_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/sre_parse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/stat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/python2.7/warnings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/python2.7/warnings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python2" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python2.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python2.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xas_transform/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xrf_data_convert_excel/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xrf_data_convert_excel/xrf_data_convert_excel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zqy/combine.pl" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zqy/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zqy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/combine.pl" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine/combine.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine/combine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/1/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,111 +46,54 @@
     <SUITE FILE_PATH="coverage/Research$xrf_data_convert_excel.coverage" NAME="xrf_data_convert_excel Coverage Results" MODIFIED="1536307230267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xrf_data_convert_excel" />
     <SUITE FILE_PATH="coverage/Research$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1535514738198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LZ excel" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1081570224">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="690" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="690" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1363109851">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="6" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1516971030">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Research" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pytorch/warm_up_numpy.py">
+        <entry file="file://$PROJECT_DIR$/stem_section_align/scif.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="323">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stem_section_align/scif2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lz/seperation_excel_lz/main.py">
+        <entry file="file://$PROJECT_DIR$/stem_section_align/stem_section_align.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="399">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stem_section_align/fast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -208,7 +115,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -227,14 +134,14 @@
         <option value="$PROJECT_DIR$/transcriptome/test.py" />
         <option value="$PROJECT_DIR$/zqy/main.py" />
         <option value="$PROJECT_DIR$/../pytorch/warm_up_numpy.py" />
+        <option value="$PROJECT_DIR$/stem_section_align/openCV.py" />
+        <option value="$PROJECT_DIR$/stem_section_align/test.py" />
+        <option value="$PROJECT_DIR$/stem_section_align/openCV1.py" />
+        <option value="$PROJECT_DIR$/stem_section_align/sift.py" />
+        <option value="$PROJECT_DIR$/stem_section_align/fast.py" />
+        <option value="$PROJECT_DIR$/stem_section_align/stem_section_align.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
@@ -253,12 +160,18 @@
           <expand>
             <path>
               <item name="research" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="research" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="pytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+              <item name="stem_section_align" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,11 +181,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jun/Desktop/OneDrive/Documents/Python/Research/xrf_data_convert_excel/try.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python-Jun's MacBook Pro" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python-Jun's MacBook Pro" />
+      </console-settings>
+    </option>
+    <option name="myIpythonEnabled" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.stem_section_align">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,20 +236,93 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="warm_up_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Jun's MacBook Pro" />
+    <configuration name="fast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pytorch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pytorch/warm_up_numpy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stem_section_align/fast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="openCV1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stem_section_align/openCV1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sift" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stem_section_align/sift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stem_section_align" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stem_section_align/stem_section_align.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stem_section_align" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stem_section_align/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.warm_up_numpy" />
+        <item itemvalue="Python.stem_section_align" />
+        <item itemvalue="Python.fast" />
+        <item itemvalue="Python.sift" />
+        <item itemvalue="Python.openCV1" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -347,10 +351,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520558753880</updated>
+      <workItem from="1557499309396" duration="143000" />
+      <workItem from="1557801317005" duration="4064000" />
+      <workItem from="1557812500988" duration="18927000" />
     </task>
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23134000" />
+  </component>
+  <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -363,21 +373,21 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7748538" visible="true" weight="0.15351813" />
-      <window_info id="Structure" order="1" sideWeight="0.2251462" side_tool="true" visible="true" weight="0.15351813" />
-      <window_info id="Favorites" order="2" sideWeight="0.50051284" side_tool="true" weight="0.25030527" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="1" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
+      <window_info id="Favorites" order="2" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.14527363" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.14533623" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.14517877" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32923076" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.25813448" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.24485373" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -386,14 +396,11 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="7" side_tool="true" visible="true" weight="0.3192964" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="7" side_tool="true" weight="0.3192964" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -430,6 +437,9 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/research$stem_section_align.coverage" NAME="stem_section_align Coverage Results" MODIFIED="1557917285029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stem_section_align" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rice_cd/plot.py" />
     <entry file="file://$PROJECT_DIR$/rice_cd/main.py" />
@@ -452,26 +462,100 @@
     <entry file="file://$PROJECT_DIR$/xrf_data_convert_excel/xrf_data_convert_excel.py" />
     <entry file="file://$PROJECT_DIR$/xrf_data_convert_excel/try.py" />
     <entry file="file://$PROJECT_DIR$/xrf_data_convert_excel/xrf_data_convert_excel_gui.py" />
-    <entry file="file://$PROJECT_DIR$/zqy/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zqy/main.py" />
     <entry file="file://$PROJECT_DIR$/../pytorch/warm_up_numpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lz/seperation_excel_lz/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scf3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/openCV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/sift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/scif2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stem_section_align/stem_section_align.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
