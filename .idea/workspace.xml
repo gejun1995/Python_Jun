@@ -312,11 +312,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.total_cluster_name" />
-      <item itemvalue="Python.scif" />
       <item itemvalue="Python.scif2" />
       <item itemvalue="Python.scif3" />
+      <item itemvalue="Python.scif" />
       <item itemvalue="Python.stem_section_align" />
+      <item itemvalue="Python.total_cluster_name" />
     </list>
     <recent_temporary>
       <list>
