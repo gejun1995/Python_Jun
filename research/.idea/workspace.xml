@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="186c7d94-58a1-455e-bb1e-03e39a40d27a" name="Default" comment="need to add ransac">
+      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-Jun's MacBook Pro-2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace-Jun's MacBook Pro-2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/.ipynb_checkpoints/learn_numpy_1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/.ipynb_checkpoints/learn_numpy_1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/.ipynb_checkpoints/autograd_tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/.ipynb_checkpoints/autograd_tutorial-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/.ipynb_checkpoints/neural_networks_tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/.ipynb_checkpoints/neural_networks_tutorial-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/.ipynb_checkpoints/tensor_tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/.ipynb_checkpoints/tensor_tutorial-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/autograd_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_Notebook/learn_numpy_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_Notebook/learn_numpy_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Research.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Research.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_find_root_number/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_find_root_number/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lz/bubble_excel_lz/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lz/bubble_excel_lz/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stem_section_align/stem_section_align.py" beforeDir="false" afterPath="$PROJECT_DIR$/stem_section_align/stem_section_align.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/all_cluster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/all_cluster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/all_cluster_set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/all_cluster_set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/alone_cluster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/alone_cluster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/both_cluster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/both_cluster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/total_cluster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/total_cluster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/total_cluster_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/total_cluster_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/trinity_cluster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/trinity_cluster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transcriptome/uni_cluster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/transcriptome/uni_cluster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/combine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/combine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/make-subsamp_wgcna/make-subsamp_wgcna.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/make-subsamp_wgcna/make-subsamp_wgcna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/zqy/old_ID_with_new_NR/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xrf_data_convert_to_excel/xrf_data_convert_excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+            <state relative-caret-position="323">
+              <caret line="98" column="25" lean-forward="true" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -43,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lz/seperation_excel_lz/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -52,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lz/bubble_excel_lz/bubble.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+            <state relative-caret-position="612">
+              <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -122,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,13 +175,6 @@
               <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
               <item name="research" type="462c0819:PsiDirectoryNode" />
               <item name="lz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="research" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
-              <item name="research" type="462c0819:PsiDirectoryNode" />
-              <item name="lz" type="462c0819:PsiDirectoryNode" />
-              <item name="bubble_excel_lz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="research" type="b2602c69:ProjectViewProjectNode" />
@@ -172,6 +200,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,6 +263,9 @@
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lz/bubble_excel_lz" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -319,6 +351,9 @@
       <module name="Research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lz/bubble_excel_lz" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -358,7 +393,8 @@
       <workItem from="1557801317005" duration="4064000" />
       <workItem from="1557812500988" duration="26807000" />
       <workItem from="1557928770491" duration="1319000" />
-      <workItem from="1558096887104" duration="8259000" />
+      <workItem from="1558096887104" duration="8935000" />
+      <workItem from="1558694359420" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1557917367224</created>
@@ -371,7 +407,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40592000" />
+    <option name="totallyTimeSpent" value="41296000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -384,9 +420,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.16151386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.16311301" />
       <window_info id="Structure" order="1" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info id="Favorites" order="2" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +435,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.22751896" />
+      <window_info anchor="bottom" id="Python Console" order="11" visible="true" weight="0.22751896" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,23 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lz/seperation_excel_lz/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xrf_data_convert_to_excel/xrf_data_convert_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -546,13 +564,6 @@
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lz/species_excel_lz/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lz/bubble_excel_lz/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -560,10 +571,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lz/species_excel_lz/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lz/seperation_excel_lz/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lz/bubble_excel_lz/bubble.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        <state relative-caret-position="612">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xrf_data_convert_to_excel/xrf_data_convert_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="98" column="25" lean-forward="true" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
         </state>
       </provider>
     </entry>

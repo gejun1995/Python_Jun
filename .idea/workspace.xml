@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c810dc3-9f87-44c3-a65d-415b9e8680e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learning/numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/openCV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/scif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/scif2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/scif3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/scif4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/sift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/stem_section_align/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/transcriptome/total_cluster_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/zqy/1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/zqy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/zqy/combine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/zqy/old_ID_with_new_NR/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/zqy/old_ID_with_new_NR/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/zqy/old_ID_with_new_NR/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_Notebook/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/autograd_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/cifar10_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/neural_networks_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_Notebook/Pytorch/tensor_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_Notebook/test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/.idea/Research.iml" beforeDir="false" afterPath="$PROJECT_DIR$/research/.idea/Research.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/research/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/research/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/image_find_root_number/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/image_find_root_number/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/stem_section_align/stem_section_align.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/stem_section_align/stem_section_align.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/transcriptome/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/transcriptome/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/zqy/combine.pl" beforeDir="false" afterPath="$PROJECT_DIR$/research/zqy/combine/combine.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/zqy/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/zqy/combine/combine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research/zqy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/zqy/1/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +22,7 @@
     <SUITE FILE_PATH="coverage/Python_Jun$main.coverage" NAME="main Coverage Results" MODIFIED="1553455112213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/research/zqy/old_ID_with_new_NR" />
     <SUITE FILE_PATH="coverage/Python$trimmomatic.coverage" NAME="trimmomatic Coverage Results" MODIFIED="1540460564909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Research/TR_script" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1543806120792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Research/xas_transorm" />
+    <SUITE FILE_PATH="coverage/Python_Jun$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1558107892578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/research/lz/bubble_excel_lz" />
     <SUITE FILE_PATH="coverage/Python$warm_up_numpy.coverage" NAME="warm_up_numpy Coverage Results" MODIFIED="1549870490938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch" />
     <SUITE FILE_PATH="coverage/Python_Jun$stem_section_align.coverage" NAME="stem_section_align Coverage Results" MODIFIED="1553225239808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/research/stem_section_align" />
     <SUITE FILE_PATH="coverage/Python$combine.coverage" NAME="combine Coverage Results" MODIFIED="1545907526764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Research/zqy" />
@@ -65,13 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/research/stem_section_align/stem_section_align.py">
+        <entry file="file://$PROJECT_DIR$/research/lz/bubble_excel_lz/bubble.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="486">
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -129,6 +94,7 @@
         <option value="$PROJECT_DIR$/research/stem_section_align/scif4.py" />
         <option value="$PROJECT_DIR$/research/stem_section_align/scif2.py" />
         <option value="$PROJECT_DIR$/research/stem_section_align/stem_section_align.py" />
+        <option value="$PROJECT_DIR$/research/lz/bubble_excel_lz/bubble.py" />
       </list>
     </option>
   </component>
@@ -144,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,13 +127,19 @@
               <item name="Python_Jun" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
               <item name="research" type="462c0819:PsiDirectoryNode" />
-              <item name="stem_section_align" type="462c0819:PsiDirectoryNode" />
+              <item name="lz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Jun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Jun" type="462c0819:PsiDirectoryNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+              <item name="lz" type="462c0819:PsiDirectoryNode" />
+              <item name="bubble_excel_lz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +173,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stem_section_align">
+  <component name="RunManager" selected="Python.bubble">
+    <configuration name="bubble" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/research/lz/bubble_excel_lz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/research/lz/bubble_excel_lz/bubble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scif" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,42 +284,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="total_cluster_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/research/transcriptome" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/research/transcriptome/total_cluster_name.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.scif" />
       <item itemvalue="Python.scif2" />
       <item itemvalue="Python.scif3" />
-      <item itemvalue="Python.scif" />
       <item itemvalue="Python.stem_section_align" />
-      <item itemvalue="Python.total_cluster_name" />
+      <item itemvalue="Python.bubble" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bubble" />
         <item itemvalue="Python.stem_section_align" />
         <item itemvalue="Python.scif2" />
         <item itemvalue="Python.scif3" />
         <item itemvalue="Python.scif" />
-        <item itemvalue="Python.total_cluster_name" />
       </list>
     </recent_temporary>
   </component>
@@ -352,11 +325,21 @@
       <workItem from="1557885049146" duration="925000" />
       <workItem from="1557886750232" duration="963000" />
       <workItem from="1557902983255" duration="153000" />
+      <workItem from="1558106607756" duration="1709000" />
+      <workItem from="1558623885984" duration="17000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1558106673715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558106673715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30898000" />
+    <option name="totallyTimeSpent" value="32624000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -371,12 +354,12 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21393643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21882641" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6785714" weight="0.18201517" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6785714" weight="0.18079673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27982646" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,6 +396,8 @@
       <path value="$PROJECT_DIR$/Website" />
       <path value="$PROJECT_DIR$/reference" />
     </ignored-roots>
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -581,53 +566,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/research/stem_section_align/Utility.py" />
-    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <element signature="e#19#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif.py" />
+    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif2.py" />
+    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif3.py" />
+    <entry file="file://$PROJECT_DIR$/research/stem_section_align/scif4.py" />
     <entry file="file://$PROJECT_DIR$/research/stem_section_align/stem_section_align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="402">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/research/lz/bubble_excel_lz/bubble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
         </state>
       </provider>
     </entry>
