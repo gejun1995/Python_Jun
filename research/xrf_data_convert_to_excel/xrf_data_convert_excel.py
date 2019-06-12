@@ -13,6 +13,7 @@ Version 3.0
 Please visit https://github.com/gejun1995/Python_Jun/blob/master/research/xrf_data_convert_to_excel/xrf_data_convert_excel.py to check for new updates.
 Author information: Jun Ge, Zhejiang University, China. See at: www.gejun.me or www.gejunsci.com
 Contact me: gejun@zju.edu.cn or gejun1995@gmail.com
+All rights reserved.
 
 By Jun Ge
 Updated 6/12/2019
@@ -23,7 +24,7 @@ Updated 6/12/2019
 def read_multi_files():
     filenames = []
     while True:
-        filename = input('\nPlease input dat file\'name without ".dat" extension.\nInput "s" to stop inputting and start converting.\n')
+        filename = input('\nPlease input file name without extension.\nInput "s" to stop inputting and start converting.\n')
         if filename == 's':
             break
         filenames.append(filename)

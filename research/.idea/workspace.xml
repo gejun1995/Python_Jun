@@ -29,11 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/transcriptome/corset.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xrf_data_convert_to_excel/xrf_data_convert_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -334,6 +343,7 @@
       <workItem from="1558924710629" duration="599000" />
       <workItem from="1558961892467" duration="9000" />
       <workItem from="1558961929809" duration="2297000" />
+      <workItem from="1560340314949" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1557917367224</created>
@@ -346,7 +356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49536000" />
+    <option name="totallyTimeSpent" value="49548000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -361,7 +371,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.16950959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7726639" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="1" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info id="Favorites" order="2" sideWeight="0.22733612" side_tool="true" weight="0.15671642" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -513,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xrf_data_convert_to_excel/xrf_data_convert_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lz/species_excel_lz/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -567,7 +570,14 @@
     <entry file="file://$PROJECT_DIR$/transcriptome/corset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xrf_data_convert_to_excel/xrf_data_convert_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
         </state>
       </provider>
     </entry>
