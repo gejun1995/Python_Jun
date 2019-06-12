@@ -1,0 +1,2 @@
+HMNS_E.txt
+OTU_ID	Unplanted1	Unplanted2	Unplanted3	Unplanted4	Unplanted5	Unplanted6	Bulk1	Bulk2	Bulk3	Bulk4	Bulk5	Bulk6	FR1	FR2	FR3	FR4	FR5	FR6	RS1	RS2	RS3	RS4	RS5	RS6	RP1	RP2	RP3	RP4	RP5	RP6	E1	E2	E3	E4	E5	E6

@@ -1,20 +1,60 @@
 # coding=utf-8
 
 import openpyxl as op
+import pandas as pd
 import re
 
+print(
 """
-To convert XRF data into '.xlsx' format which was collected in SSRL.
-Version 2.0
-New features: 
-1. Make read files in batches possible.
-2. Some bug fixed.
+XLL_leaf1_3560_0_001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Purpose: Convert SSRL XRF data into '.xlsx' format.
+Version 3.0
+
+Please visit https://github.com/gejun1995/Python_Jun/blob/master/research/xrf_data_convert_to_excel/xrf_data_convert_excel.py to check for new updates.
+Author information: Jun Ge, Zhejiang University, China. See at: www.gejun.me or www.gejunsci.com
+Contact me: gejun@zju.edu.cn or gejun1995@gmail.com
+
 By Jun Ge
-Updated 8/20/2018
+Updated 6/12/2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 """
+)
 
+def read_multi_files():
+    filenames = []
+    while True:
+        filename = input('\nPlease input dat file\'name without ".dat" extension.\nInput "s" to stop inputting and start converting.\n')
+        if filename == 's':
+            break
+        filenames.append(filename)
+    print("Inputted filenames:")
+    for filename in filenames:
+        print(filename)
+    print("\n")
 
-# Convert numeric columns to alphabet columns.
+    return filenames
+
+def dat_to_csv(filename):
+    print("converting dat to csv...")
+    with open(filename + ".dat", 'r') as file_dat:
+        lines = file_dat.readlines()
+    with open(filename + ".csv", 'w') as file_csv:
+        for line in lines:
+            line = re.sub(r'[\x09]', '\t', line)
+            if line:
+                file_csv.write(line)
+    print("converted")
+
+def csv_to_xlsx(filename):
+    print("converting csv to xlsx...")
+    csv = pd.read_csv(filename + '.csv', encoding='utf-8', sep='\t',dtype=object,low_memory=False)
+    csv.to_excel(filename + '.xlsx', sheet_name='raw')
+    wb = op.load_workbook(filename+".xlsx")
+    raw = wb.active
+    raw.delete_cols(1)
+    print("converted")
+
 def num_to_char(index):
     if index < 1:
         raise ValueError("Index is too small")
@@ -26,79 +66,69 @@ def num_to_char(index):
         else:
             return chr(index + ord('A') - 1) + result
 
-
-# Read files in batches.
-file_list = []
-element_column_1_dic = {}
-element_column_2_dic = {}
-while True:
-    filename_temp = input('\nPlease enter the filename without ".xlsx" in turn.\nEnter only "q" to start. ')
-    if filename_temp == 'q':
-        break
-    filename = filename_temp + '.xlsx'
-    file_list.append(filename)
-    element_column_1_dic[str(filename)] = input('Please enter the column num that element starts in row 5. ')
-    element_column_2_dic[str(filename)] = input('Please enter the column num that element starts in row 23. ')
-
-# Main part.
-for file in file_list:
-    # Read data and mark the active page as 'origin'.
-    wb = op.load_workbook(file)
-    origin = wb.active
-    print("\n" + str(file) + " loads successfully.")
-
-    # Read the num of target rows and columns, and record them as row, col.
-    row = origin.cell(row=1, column=1).value
-    col = origin.cell(row=2, column=1).value
+def process(filename):
+    # read row and column for each element
+    print("-----------------------------------------------------------------------------------------------------------------------------------------------------------")
+    print("opening file: " + filename +".xlsx")
+    print("it may takes several minutes...")
+    wb = op.load_workbook(filename+".xlsx")
+    raw = wb.active
+    print("\n" + str(filename) + " loads successfully.")
+    row = raw.cell(row=1, column=1).value
+    col = raw.cell(row=2, column=1).value
     row = re.findall("\d+", row)[0]
     col = re.findall("\d+", col)[0]
     print('The number of target row is ' + str(row))
     print('The number of target column is ' + str(col))
 
-    # Detect element types and store them in element[].
+    # read element
     element = []
-    num = 0
-    column = int(element_column_1_dic[str(filename)])  # the column of element starts
-    item = ''
+    element_num = 0
+    element_column_1 = 2   # the column of element starts at row 5
+    total_element_name = ''
     flag = True
     while flag:
-        element.append(origin.cell(row=5, column=column).value)
-        if element[num] == 'TIME':
+        element.append(raw.cell(row=5, column=element_column_1).value)
+        if element[element_num] == 'TIME':
             flag = False
         else:
-            num += 1
-            column += 1
-            item += str(element[num - 1]) + ' '
-    temp = 0
-    element_column_2 = int(element_column_2_dic[filename])
-    for b in range(element_column_2, 9 + num):
-        origin.cell(row=22, column=b).value = element[temp]
-        temp = temp + 1
-    print("The detected items are: " + str(item))
-    print("Total " + str(num) + " items")
+            total_element_name += str(element[element_num]) + ' '
+            element_num += 1
+            element_column_1 += 1
+
+    # paste element name on row 23
+    element_num_temp = 0
+    element_column_2 = 4 # the column of element starts at row 23
+    for column_position in range(element_column_2, element_column_2 + element_num):
+        raw.cell(row=22, column=column_position).value = element[element_num_temp]
+        element_num_temp = element_num_temp + 1
+    print("The detected elements are: " + str(total_element_name))
+    print("Total " + str(element_num) + " elements")
     print("Data is converting...")
 
-    # Sheet creating.
-    for i in range(0, num):
-        temp = 'ws' + str(i)
-        temp = wb.create_sheet(element[i], i + 1)
+    # for each element
+    for i in range(0, element_num):
+        # create sheet for current element
+        print("Current processing element is: " + element[i])
+        print("Create new sheet for element...")
+        wb.create_sheet(element[i], i + 1)
 
-        # Copy the original data to the new sheet.
-        sheets = wb.get_sheet_names()
-        sheet = sheets[i + 1]
-        item = wb.get_sheet_by_name(sheet)
+        # Copy the raw data of current element to the current sheet.
+        print("Copy raw data to element sheet...")
+        current_sheet = wb.get_sheet_by_name(element[i])
         a = 1
         b = 23
         flag = True
         while flag:
-            item.cell(row=a, column=1).value = origin.cell(row=b, column=(element_column_2 + i)).value
-            if origin.cell(row=(b + 1), column=(element_column_2 + i)).value is None:
+            current_sheet.cell(row=a, column=1).value = raw.cell(row=b, column=(element_column_2 + i)).value
+            if raw.cell(row=(b + 1), column=(element_column_2 + i)).value is None:
                 flag = False
             else:
                 a = a + 1
                 b = b + 1
 
-        # Calculating for the new sheet.
+        # Calculating for the current sheet.
+        print("Calculate for element...")
         i = int(row) + 1
         j = int(col) + 2
         for a in range(1, int(i)):
@@ -106,11 +136,31 @@ for file in file_list:
                 c = num_to_char(b - 1)
                 d = a
                 e = '=INDIRECT("a"&ROW(' + str(c) + str(d) + ')+(COLUMN(' + str(c) + str(d) + ')-1)*' + str(row) + ')'
-                item.cell(row=a, column=b).value = e
+                current_sheet.cell(row=a, column=b).value = e
+        print("-------------------------------")
 
-    # Save file.
-    new_filename = 'new_' + str(file)
+    print("saving data...")
+    new_filename = 'new_' + str(filename) +".xlsx"
     wb.save(filename=new_filename)
     print("Data converts successfully with a new filename " + new_filename)
+    print("\n\n")
 
-print("Finished.")
+def main():
+    filenames=read_multi_files()
+    print("Auto tranfering .dat to .xlsx comsumes time and computer resourses, tranfer manually if possible.")
+    check = input("Transfer automatically any way by inputting 'yes', others skip.\n")
+    if check == "yes":
+        print("start auto transer...")
+        for filename in filenames:
+            print("current filename is: " + filename)
+            dat_to_csv(filename)
+            csv_to_xlsx(filename)
+    else:
+        print("ignored\n")
+    for filename in filenames:
+        process(filename)
+    print("Finished.")
+
+
+if __name__ == '__main__':
+    main()

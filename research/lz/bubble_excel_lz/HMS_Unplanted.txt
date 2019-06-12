@@ -1,0 +1,2 @@
+HMS_Unplanted.txt
+OTU_ID	Unplanted1	Unplanted2	Unplanted3	Bulk1	Bulk2	Bulk3	FR1	FR2	FR3	RS1	RS2	RS3	RP1	RP2	RP3	E1	E2	E3

@@ -1,23 +1,18 @@
 
+Purpose: Convert SSRL XRF data into '.xlsx' format.
 
-To convert XRF data into '.xlsx' format which was collected in SSRL.
+
+
+------------------------------------------------------------------------------------
 Version 3.0
 
-New features:
-1. Some bug fixes.
-
-TO do:
-1. Make GUI.
+Please visit https://github.com/gejun1995/Python_Jun/blob/master/research/xrf_data_convert_to_excel/xrf_data_convert_excel.py to check for new updates.
+Author information: Jun Ge, Zhejiang University, China. See at: www.gejun.me or www.gejunsci.com
+Contact me: gejun@zju.edu.cn or gejun1995@gmail.com
 
 By Jun Ge
-Updated 9/22/2018
-
-
-
-
-
-
-To convert XRF data into '.xlsx' format which was collected in SSRL.
+Updated 6/12/2019
+------------------------------------------------------------------------------------
 Version 2.0
 New features:
 1. Make files read in batches possible.
@@ -25,3 +20,4 @@ New features:
 
 By Jun Ge
 Updated 8/20/2018
+------------------------------------------------------------------------------------
